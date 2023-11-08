@@ -1,5 +1,3 @@
-# Не забудь поставить звезду
+## npm run dev -  backend -> server
 
-## npm run dev - запуск сервера
-
-## npm start - запуск клиента
+## npm start - frontend -> client
